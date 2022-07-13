@@ -25,6 +25,7 @@
     "audio-contour": "0.0.1",
     "note-parser": "^2.0.0",
     "prop-types": "^15.6.0",
+    "react-music": "^1.0.3",
     "tunajs": "^0.4.5",
     "uuid": "^2.0.2"
   },
